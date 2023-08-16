@@ -1,0 +1,8 @@
+/* 전체선택해서 글꼴 맞추기 */
+
+h1 {color:goldenrod}
+#p1 {background-color:lightcoral; color:whitesmoke;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif}
+#p2, ul {background-color: palegreen;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+#p3 {background-color}
